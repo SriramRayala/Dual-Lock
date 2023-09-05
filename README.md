@@ -1,1 +1,7 @@
 # Dual-Lock
+
+In the modern scenario, people use Face Recognition Technology on a daily basis be it to unlock phones or enter their workplace or some other purpose. However, in spite of using technology for unlocking , we are aiming to advance a feature of double security with Face Recognition and one time Password generator by the voice assistant name "Dodo". So, it reduces the chance of password hacking by unauthorized users or intruders. 
+
+Face Detection and Recognition System (FDRS) is a physical characteristics recognition system, using the inbuilt physiological features of humans for ID recognition such as face and voice. There are two general applications of FDRS : 
+Face identification and Face verification. Face identification means we gives a face image to the system, we want the system to tell who he/she is the most probable identification. Face verification means giving a face image and a guess of the identification, we want the system to tell true or false about the guess. 
+Face recognition reduces a significant amount of work that was previously required by lock systems to keep track of every person, as computers now handle user authorization, maintain logs, and also offer high levels of security. This fundamental functionality needs to be altered, including the addition of a login feature, a sign-up feature, the capability to directly import users and images from a computer into the app, a list of users who can add or modify data, the capacity to view data, among many other features.
